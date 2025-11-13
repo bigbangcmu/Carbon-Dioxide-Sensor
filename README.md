@@ -1,3 +1,5 @@
+![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/CO2/%5B%20Multi%20%5D%20-%20Carbon%20Dioxide%20Sensor.jpg?raw=true)
+
 # Carbon-Dioxide-Sensor
 **The CO₂ Sensor** uses advanced Photoacoustic Sensing Technology to directly measure carbon dioxide concentration. Unlike some sensors that estimate CO₂ levels indirectly via VOC readings, this sensor provides precise and reliable measurements.
 
